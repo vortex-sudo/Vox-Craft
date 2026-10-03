@@ -1,0 +1,8 @@
+{
+  "name": "VoxCraft AI — Neural Text-to-Speech Studio",
+  "description": "High-fidelity AI Text-to-Speech studio powered by Gemini 3.8. Customize voices, emotional tones, speaking pace, vocal expressions, and download studio-quality audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
